@@ -45,8 +45,7 @@ function Home2() {
                   {" "}
                   Modern Javascript Library and Frameworks
                 </b>
-              </i>git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+              </i>
 
               &nbsp; like
               <i>
